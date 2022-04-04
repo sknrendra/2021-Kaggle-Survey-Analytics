@@ -6,3 +6,7 @@ As big as the cloud market has become, there is massive scope for expansion. Esp
 (Kinsta, 2022) 
 
 https://kinsta.com/blog/cloud-market-share/
+
+SaaS utilizes the internet to deliver applications, which are managed by a third-party vendor, to its users. A majority of SaaS applications run directly through your web browser, which means they do not require any downloads or installations on the client side.
+
+Due to its web delivery model, SaaS eliminates the need to have IT staff download and install applications on each individual computer. With SaaS, vendors manage all potential technical issues, such as data, middleware, servers, and storage. SaaS provides numerous advantages to employees and companies by greatly reducing the time and money spent on tedious tasks such as installing, managing, and upgrading software.
